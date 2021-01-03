@@ -1,2 +1,2 @@
 # hello-world
-Testing and practicing how to use GutHub 
+Testing and practicing how to use GitHub 
